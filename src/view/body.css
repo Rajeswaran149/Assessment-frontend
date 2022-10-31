@@ -1,0 +1,16 @@
+.A{
+   /* height: 100%; */
+    background-color: rgb(146, 150, 150);
+    padding-bottom: 100%;
+    display: flex;
+    justify-content: center;
+    border-top: 20px;
+   
+}
+button{
+    margin-top: 40px;
+    background-color: rgb(113, 110, 110);
+    color: rgb(245, 237, 237);
+    border: 2px solid #e7e7e7;
+    padding: 10px;
+}

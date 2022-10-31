@@ -1,0 +1,40 @@
+.footer{
+    position: fixed;
+    left: 50%;
+    bottom: 0;
+    width: 100%;
+    background-color:rgba(182, 171, 171, 0.294);
+    color: white;
+    text-align:start;
+    padding: 0.5rem;
+    
+    
+}
+
+.save{
+    background-color: #04AA6D;
+    border-radius: 4px;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 20px;
+    border: none;
+    
+    
+}
+.cancel {
+    background-color: white;
+    border-radius: 4px;
+    color: red;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border: none;
+}
+
